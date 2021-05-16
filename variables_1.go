@@ -1,6 +1,8 @@
 package variables_1
 
-import "fmt"
+import (
+	"fmt"
+)
 
 var j int = 64 // only this format allowed
 
